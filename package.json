@@ -1,0 +1,15 @@
+{
+  "name": "png-light",
+  "version": "1.0.0",
+  "description": "Create / read png data",
+  "main": "png.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/baslr/png-light"
+  },
+  "author": "Manuel Baesler",
+  "license": "AGPL-3.0"
+}
